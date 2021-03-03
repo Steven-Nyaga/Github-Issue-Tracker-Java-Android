@@ -1,0 +1,12 @@
+query LaunchDetails{
+  user(login: "ashutosh1919"){
+    issues(last: 10, orderBy: {field: CREATED_AT,
+      direction: DESC}){
+      nodes{
+        title,
+        body,
+        closedAt,
+      }
+    }
+  }
+}

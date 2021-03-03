@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github Issue Tracker</string>
+    <string name="today">Today</string>
+    <string name="tuesday_21_november">Tuesday, 21 November</string>
+    <string name="date">Date</string>
+    <string name="filter_by">Filter by</string>
+    <string name="opened_29_oct_2019">Opened 29 Oct 2019</string>
+    <string name="open">Open</string>
+    <string name="compilation_error_building_an_ios_simulator_fatal_error_could_not_build_module_foundation_43713">Compilation error building an iOS simulator: fatal error: could not build module Foundation #43713</string>
+    <string name="_55_comments">55 Comments</string>
+    <string name="created_on">Created on: </string>
+    <string name="comments">comments</string>
+    <string name="search_title_name">Search Title Name</string>
+    <string name="comments2">Comments</string>
+    <string name="number_of_comments">Number of comments</string>
+    <string name="welcome">Welcome!</string>
+    <string name="to_view_list_of_issues_from_your_github_please_insert_your_details_by_clicking_the_button_below">To view list of issues from your GitHub please insert your details by clicking the button below</string>
+    <string name="github_info">GitHub Info</string>
+    <string name="github_user_name">GitHub user name</string>
+    <string name="repository_name">Repository name</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="please_check_your_internet_connectivity_then_refresh">Please check your internet connectivity then Refresh</string>
+</resources>
