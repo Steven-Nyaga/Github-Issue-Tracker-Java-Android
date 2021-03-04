@@ -38,8 +38,8 @@ public class DetailsDialog extends AppCompatDialogFragment {
                 .setPositiveButton("Ok", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        String user = userName.getText().toString();
-                        String repo = userRepo.getText().toString();
+                        String user = userName.getText().toString().trim();
+                        String repo = userRepo.getText().toString().trim();
                         listener.applyDetails(user,repo);
                     }
                 });
